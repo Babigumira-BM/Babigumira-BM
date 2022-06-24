@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Babigumira Brian M
 - 👀 I’m interested in the application of genomics and bioinformatics to solve problems in smallholder livestock production systems. I enjoy programming in R.
 - 🌱 I’m currently learning Python and Linux
-- 💞️ I’m looking to collaborate on developing low-cost high throughput phenotyping tool tailored to the tropics
+- 💞️ I’m looking to collaborate on developing low-cost high throughput phenotyping tools tailored to the tropics
 - 📫 How to reach me bbabigumira@gmail.com
 
 <!---
